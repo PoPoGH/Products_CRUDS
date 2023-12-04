@@ -14,6 +14,7 @@ La recherche et le filtrage des produits.
 L'interface utilisateur pour la gestion des produits.
 Ces tests garantissent que toutes les fonctionnalités clés fonctionnent comme prévu après toute modification ou mise à jour du code.
 
+\\
 #	Cas de Test
 1	Ajouter un produit valide
 2	Ajouter un produit avec prix invalide
@@ -33,6 +34,6 @@ Ces tests garantissent que toutes les fonctionnalités clés fonctionnent comme 
 18	Pagination vers la page suivante
 19	Recherche d'un produit spécifique
 20	Vérifier l'absence d'un produit après suppression
-
+\\
 Membres de l'Équipe
 Quentin L
