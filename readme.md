@@ -14,26 +14,26 @@ La recherche et le filtrage des produits.
 L'interface utilisateur pour la gestion des produits.
 Ces tests garantissent que toutes les fonctionnalités clés fonctionnent comme prévu après toute modification ou mise à jour du code.
 
-\\
-#	Cas de Test
-1	Ajouter un produit valide
-2	Ajouter un produit avec prix invalide
-3	Ajouter un produit sans nom
-6	Supprimer le premier produit
-7	Filtre par catégorie
-8	Filtre par condition
-9	Vérifier la présence d'un produit
-10	Modifier un produit
-11	Tenter d'ajouter un produit avec un prix très élevé
-12	Tenter d'ajouter un produit avec un prix négatif
-13	Vérifier l'alerte d'erreur de nom
-14	Vérifier l'alerte d'erreur de prix
-15	Vérifier l'alerte d'erreur de catégorie
-16	Vérifier l'alerte d'erreur de condition
-17	Ajouter un produit avec des caractères spéciaux	type
-18	Pagination vers la page suivante
-19	Recherche d'un produit spécifique
-20	Vérifier l'absence d'un produit après suppression
-\\
-Membres de l'Équipe
+# Cas de Test
+
+1. Ajouter un produit valide
+2. Ajouter un produit avec prix invalide
+3. Ajouter un produit sans nom
+4. Supprimer le premier produit
+5. Filtre par catégorie
+6. Filtre par condition
+7. Vérifier la présence d'un produit
+8. Modifier un produit
+9. Tenter d'ajouter un produit avec un prix très élevé
+10. Tenter d'ajouter un produit avec un prix négatif
+11. Vérifier l'alerte d'erreur de nom
+12. Vérifier l'alerte d'erreur de prix
+13. Vérifier l'alerte d'erreur de catégorie
+14. Vérifier l'alerte d'erreur de condition
+15. Ajouter un produit avec des caractères spéciaux type
+16. Pagination vers la page suivante
+17. Recherche d'un produit spécifique
+18. Vérifier l'absence d'un produit après suppression
+
+Membres de l'Équipe :
 Quentin L
